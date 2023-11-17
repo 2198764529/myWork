@@ -1,0 +1,21 @@
+{
+  "app": "com.sankuai.meituan",
+  "code": 200,
+  "duration": "217ms",
+  "headers": {
+    "Server": "openresty",
+    "Date": "Tue, 07 Nov 2023 08:17:31 GMT",
+    "Content-Type": "application/json;charset\u003dutf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "M-TraceId": "5688858715032017560",
+    "Content-Encoding": "gzip"
+  },
+  "message": "OK",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "103.37.152.137",
+  "remotePort": 443,
+  "sessionId": "7cb2ccb0-88c6-4b3c-9b8e-ebc8f48462b9",
+  "time": "2023-11-07 16:17:30"
+}

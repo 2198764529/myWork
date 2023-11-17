@@ -1,0 +1,19 @@
+{
+  "app": "com.sankuai.meituan",
+  "code": 200,
+  "duration": "96ms",
+  "headers": {
+    "Server": "openresty",
+    "Date": "Tue, 07 Nov 2023 08:16:58 GMT",
+    "Content-Type": "application/json;charset\u003dutf-8",
+    "Content-Length": "446",
+    "Connection": "keep-alive",
+    "M-TraceId": "5688858714962458201"
+  },
+  "message": "OK",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "103.37.152.137",
+  "remotePort": 443,
+  "sessionId": "d347cbd4-be4f-4894-acc8-faa3d482a4a0",
+  "time": "2023-11-07 16:16:57"
+}

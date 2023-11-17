@@ -1,0 +1,30 @@
+POST /api/ride/assist/userProfile/ridingHistoryInfo.do?yodaReady=h5&csecplatform=4&csecversion=2.1.2&mtgsig=%7B%22a1%22%3A%221.1%22%2C%22a2%22%3A1699345071896%2C%22a3%22%3A%228778z63x176356zvz8977w8w9xw0y6w281y2v0970z2979583w1935uv%22%2C%22a5%22%3A%22P2SooA0EU0GBn5on%2FNEG9Z%3D%3D%22%2C%22a6%22%3A%22hs1.4gUG48Qv2uNxUU1wCU%2BCm05i9QKW8fsI5a%2B6AQZy2M0hJKg3edlxhOSjAr4MEi8%2BGZKIdWGLw6jHcF%2B%2BrDVfW0hhEZFnXO4g0Xf%2BkcN%2Fxt0Q%3D%22%2C%22x0%22%3A4%2C%22d1%22%3A%227dc0b6405185ecc1b4ab891b2c455abe%22%7D HTTP/1.1
+Host: bike.meituan.com
+Connection: keep-alive
+Content-Length: 39
+accesstoken: AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0
+M-TRACEID: 5688858715065071947
+time: 1699345071769
+longitude: 113.9476835
+User-Agent: Mozilla/5.0 (Linux; Android 12; MI 9 Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36 TitansX/21.0.1 KNB/1.2.0 android/12 mt/com.sankuai.meituan/12.14.403 App/10120/12.14.403 MeituanGroup/12.14.403
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json, text/plain, */*
+bikeSessionId: 18ba8d7bdc8-ab6-342-75a
+userId: 1763663453
+cityCode: 0755
+M-APPKEY: fe_com.sankuai.bikeuser.web.mtbike
+utmSource: qq
+platform: 227
+latitude: 22.5459913
+lang: zh
+Origin: https://bike.meituan.com
+X-Requested-With: com.sankuai.meituan
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://bike.meituan.com/mtbike/journey/zh/index.html?isFromMMP=0&accesstoken=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0&lang=zh&countryId=0&belongId=0&lat=22.5459913&lng=113.9476835&cityCode=0755&mmpVersion=&f=android&token=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0&userid=1763663453&utm_source=qq&utm_medium=android&utm_term=1200140403&version_name=12.14.403&utm_content=2cd0f755321049288e9d7012622d03d6a169733060173014980&utm_campaign=AgroupBgroupC0D300E0&ci=30&msid=2cd0f755321049288e9d7012622d03d6a1697330601730149801699344788439&uuid=0000000000000745B40DC0B6F4BEB8131B9D66F12D378A169733060173802970&p_appid=10
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: uuid=0000000000000745B40DC0B6F4BEB8131B9D66F12D378A169733060173802970; utm_source=qq; utm_medium=android; utm_term=1200140403; utm_content=2cd0f755321049288e9d7012622d03d6a169733060173014980; _lxsdk_cuid=18b32e0a1fdc8-0186612729a7e-e0a6b65-51a6b-18b32e0a1ffc8; _lxsdk=0000000000000745B40DC0B6F4BEB8131B9D66F12D378A169733060173802970; mt_c_token=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0; token=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0; _lxsdk_dpid=13a3474e87bb47f9a72e47359eb3fe65a169733060171570426; _lxsdk_unoinid=2cd0f755321049288e9d7012622d03d6a169733060173014980; IJSESSIONID=2cd0f755321049288e9d7012622d03d6a1697330601730149801698549316246; iuuid=0000000000000745B40DC0B6F4BEB8131B9D66F12D378A169733060173802970; oops=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0; u=1763663453; ci=30; cityname=%E6%B7%B1%E5%9C%B3; fd_maidan_skipLandingAndResult=; is_from_feed=; userId=1763663453; fd_maidan_accessno=; fd_yuefu_open_type=H5; ta.uuid=1718827808119939105; isUuidUnion=true; WEBDFPID=8778z63x176356zvz8977w8w9xw0y6w281y2v0970z2979583w1935uv-2013995458215-1698635458215CAMYESC52588f39db0d1b3f1e494e6fb36dd88b2390; network=wifi; cityid=91; utm_campaign=AgroupBgroupC0D300E0Ghomepage_category2_1__a1__c-1024; p_token=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0; version_name=12.14.403; maidan_utm_source=creditpay_app-pay-banner410419_638268; fd_maidan_utm_source=creditpay_app-pay-banner410419_638268; latlng=; com.sankuai.bikeuser.web.mtbike_random=; com.sankuai.bikeuser.web.mtbike_strategy=; ins_user_channel=meituan; ins_user_source=meituan; ins_user_auth=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0; ins_bff_token=AgHSIJkK-cF-96uiPctz-1OgTdvg_HS2U6hF0Uaw-Ef9rMHwgMyyU_ZQtUn_rmhottudb8s9RRJMpgAAAAB5GwAASqjaygRLu0SWcLOgTk3zLjJuizF4IWxGMtKVQYtPCra2c8jsDQ09PtKF5UeDWHE0; _lxsdk_s=18ba8d7bdc8-ab6-342-75a%7C1763663453%7CNaN; logan_session_token=okxhwvko0ca6t36nw1q4; _lx_utm=utm_source%3Dqq%26utm_medium%3Dandroid%26utm_term%3D1200140403%26utm_content%3D2cd0f755321049288e9d7012622d03d6a169733060173014980%26utm_campaign%3DAgroupBgroupC0D300E0
+
+querySize=10&maxTimestamp=1663329719019
